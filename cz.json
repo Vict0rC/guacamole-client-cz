@@ -4,9 +4,6 @@
 
     "APP" : {
 
-        "NAME" : "Apache Guacamole",
-        "VERSION" : "${project.version}",
-
         "ACTION_ACKNOWLEDGE"        : "OK",
         "ACTION_CANCEL"             : "Zrušit",
         "ACTION_CLONE"              : "Klonovat",
@@ -652,7 +649,7 @@
         "FIELD_HEADER_HOSTNAME"                   : "Jméno hostitele:",
         "FIELD_HEADER_PASSWORD"                   : "Heslo:",
         "FIELD_HEADER_PORT"                       : "Port:",
-        "FIELD_HEADER_READ_ONLY"                  : "Pouze pro čtení:",
+        "FIELD_HEADER_READ_ONLY"                  : "Pouze čtení:",
         "FIELD_HEADER_RECORDING_EXCLUDE_MOUSE"    : "Vynechat myš:",
         "FIELD_HEADER_RECORDING_EXCLUDE_OUTPUT"   : "Vynechat grafiku/stremování:",
         "FIELD_HEADER_RECORDING_INCLUDE_KEYS"     : "Zahrnout události kláves",
