@@ -10,8 +10,6 @@ GUACAMOLE-781
 
 https://issues.apache.org/jira/browse/GUACAMOLE-781
 
-GUACAMOLE-781
-
 https://github.com/apache/guacamole-client/pull/397
 
 https://github.com/apache/guacamole-client/pull/480
