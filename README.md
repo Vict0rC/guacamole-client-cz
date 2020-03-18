@@ -7,6 +7,8 @@ Source file / Zdrojový soubor
 
 https://github.com/apache/guacamole-client/blob/master/guacamole/src/main/webapp/translations/en.json
 
+https://github.com/apache/guacamole-client/blob/staging/1.2.0/guacamole/src/main/webapp/translations/en.json
+
 GUACAMOLE-781
 
 https://issues.apache.org/jira/browse/GUACAMOLE-781
