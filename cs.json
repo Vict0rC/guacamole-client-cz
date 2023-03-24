@@ -127,7 +127,6 @@
         "INFO_ANONYMOUS_USER_COUNT" : "Anonymní{COUNT, plural, one{} other{ (#)}}",
         "INFO_CONNECTION_SHARED"    : "Toto připojení je nyní sdíleno.",
         "INFO_NO_FILE_TRANSFERS"    : "Žádné přenosy souborů.",
-        "INFO_USER_COUNT"           : "{USERNAME}{COUNT, plural, one{} other{ (#)}}",
 
         "NAME_INPUT_METHOD_NONE"   : "Žádné",
         "NAME_INPUT_METHOD_OSK"    : "Na obrazovce, klávesnice",
