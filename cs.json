@@ -43,7 +43,7 @@
         
         "FIELD_HEADER_PASSWORD"       : "Heslo:",
         "FIELD_HEADER_PASSWORD_AGAIN" : "Heslo znovu:",
-        "FIELD_HEADER_RECORDING_WRITE_EXISTING" : "Povolit zápis do existujícího záznamového souboru:",
+        "FIELD_HEADER_RECORDING_WRITE_EXISTING"  : "Povolit zápis do existujícího záznamového souboru:",
         "FIELD_HEADER_TYPESCRIPT_WRITE_EXISTING" : "Povolit zápis do existujícího souboru s textem:",
 
         "FIELD_PLACEHOLDER_FILTER" : "Filtr",
@@ -153,7 +153,7 @@
         "SECTION_HEADER_FILE_TRANSFERS"  : "Přenos souborů",
         "SECTION_HEADER_INPUT_METHOD"    : "Metoda vstupu",
         
-        "SECTION_HEADER_MOUSE_MODE"     : "Mód emulace myši",
+        "SECTION_HEADER_MOUSE_MODE"      : "Mód emulace myši",
 
         "TEXT_ANONYMOUS_USER_JOINED"      : "K připojení se připojil anonymní uživatel.",
         "TEXT_ANONYMOUS_USER_LEFT"        : "Anonymní uživatel opustil připojení.",
@@ -537,11 +537,6 @@
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
         "FIELD_OPTION_COLOR_SCHEME_GRAY_BLACK"  : "Šedá na černé",
@@ -668,11 +663,6 @@
         "FIELD_HEADER_WOL_SEND_PACKET"    : "Odeslat paket WoL:",
         "FIELD_HEADER_WOL_UDP_PORT"       : "UDP port pro paket WoL: ",
         "FIELD_HEADER_WOL_WAIT_TIME"      : "Doba čekání na spuštění hostitele:",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_52428800" : "50MB",
 
         "FIELD_OPTION_NORMALIZE_CLIPBOARD_EMPTY"    : "",
         "FIELD_OPTION_NORMALIZE_CLIPBOARD_PRESERVE" : "Zachovat tak, jak je",
@@ -790,11 +780,6 @@
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
         "FIELD_OPTION_COLOR_SCHEME_GRAY_BLACK"  : "Šedá na černé",
@@ -881,11 +866,6 @@
         "FIELD_OPTION_BACKSPACE_EMPTY" : "",
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
-
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
 
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
@@ -982,11 +962,6 @@
         "FIELD_HEADER_WOL_UDP_PORT"       : "UDP port pro paket WoL:",
         "FIELD_HEADER_WOL_WAIT_TIME"      : "Doba čekání na spuštění hostitele:",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_52428800" : "50MB",
 
         "FIELD_OPTION_COLOR_DEPTH_8"     : "256 barev",
         "FIELD_OPTION_COLOR_DEPTH_16"    : "Nízké barvy (16-bitů)",
@@ -994,17 +969,6 @@
         "FIELD_OPTION_COLOR_DEPTH_32"    : "Opravdové barvy (32-bitů)",
         "FIELD_OPTION_COLOR_DEPTH_EMPTY" : "",
 
-        "FIELD_OPTION_COMPRESS_LEVEL_0"     : "0",
-        "FIELD_OPTION_COMPRESS_LEVEL_1"     : "1",
-        "FIELD_OPTION_COMPRESS_LEVEL_2"     : "2",
-        "FIELD_OPTION_COMPRESS_LEVEL_3"     : "3",
-        "FIELD_OPTION_COMPRESS_LEVEL_4"     : "4",
-        "FIELD_OPTION_COMPRESS_LEVEL_5"     : "5",
-        "FIELD_OPTION_COMPRESS_LEVEL_6"     : "6",
-        "FIELD_OPTION_COMPRESS_LEVEL_7"     : "7",
-        "FIELD_OPTION_COMPRESS_LEVEL_8"     : "8",
-        "FIELD_OPTION_COMPRESS_LEVEL_9"     : "9",
-        "FIELD_OPTION_COMPRESS_LEVEL_EMPTY" : "",
 
         "FIELD_OPTION_CURSOR_EMPTY"  : "",
         "FIELD_OPTION_CURSOR_LOCAL"  : "Místní",
@@ -1015,18 +979,6 @@
         "FIELD_OPTION_CLIPBOARD_ENCODING_ISO8859_1" : "ISO 8859-1",
         "FIELD_OPTION_CLIPBOARD_ENCODING_UTF_8"     : "UTF-8",
         "FIELD_OPTION_CLIPBOARD_ENCODING_UTF_16"    : "UTF-16",
-
-        "FIELD_OPTION_QUALITY_LEVEL_0"     : "0",
-        "FIELD_OPTION_QUALITY_LEVEL_1"     : "1",
-        "FIELD_OPTION_QUALITY_LEVEL_2"     : "2",
-        "FIELD_OPTION_QUALITY_LEVEL_3"     : "3",
-        "FIELD_OPTION_QUALITY_LEVEL_4"     : "4",
-        "FIELD_OPTION_QUALITY_LEVEL_5"     : "5",
-        "FIELD_OPTION_QUALITY_LEVEL_6"     : "6",
-        "FIELD_OPTION_QUALITY_LEVEL_7"     : "7",
-        "FIELD_OPTION_QUALITY_LEVEL_8"     : "8",
-        "FIELD_OPTION_QUALITY_LEVEL_9"     : "9",
-        "FIELD_OPTION_QUALITY_LEVEL_EMPTY" : "",
 
         "NAME" : "VNC",
 
