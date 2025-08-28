@@ -63,8 +63,8 @@
 
         "ACTION_ACKNOWLEDGE"               : "@:APP.ACTION_ACKNOWLEDGE",
         "ACTION_CANCEL"                    : "@:APP.ACTION_CANCEL",
-        "ACTION_CLEAR_CLIENT_MESSAGES"     : "Vyčistit",
-        "ACTION_CLEAR_COMPLETED_TRANSFERS" : "Vyčistit",
+        "ACTION_CLEAR_CLIENT_MESSAGES"     : "@:APP.ACTION_CLEAR",
+        "ACTION_CLEAR_COMPLETED_TRANSFERS" : "@:APP.ACTION_CLEAR",
         "ACTION_CONTINUE"                  : "@:APP.ACTION_CONTINUE",
         "ACTION_DISCONNECT"                : "Odpojit",
         "ACTION_FULLSCREEN"                : "Celá obrazovka",
