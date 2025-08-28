@@ -6,6 +6,7 @@
 **Source file / Zdrojový soubor**
 
 * https://github.com/apache/guacamole-client/blob/main/guacamole/src/main/frontend/src/translations/en.json
+* https://github.com/apache/guacamole-client/blob/patch/guacamole/src/main/frontend/src/translations/en.json
 
 **GUACAMOLE-781**
 
