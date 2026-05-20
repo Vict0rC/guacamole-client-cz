@@ -37,3 +37,7 @@
 
 * https://issues.apache.org/jira/browse/GUACAMOLE-2125
 * https://github.com/apache/guacamole-client/pull/1107
+
+**GUACAMOLE-2276**
+
+* https://issues.apache.org/jira/browse/GUACAMOLE-2276
