@@ -16,9 +16,9 @@
 
 **Source file / Zdrojový soubor**
 
-* https://github.com/apache/guacamole-client/blob/master/guacamole/src/main/frontend/src/translations/en.json
+* https://github.com/apache/guacamole-client/blob/main/guacamole/src/main/frontend/src/translations/en.json
 
-**GUACAMOLE-1644**
+**GUACAMOLE-1664**
 
 * https://issues.apache.org/jira/browse/GUACAMOLE-1664
 * https://github.com/apache/guacamole-client/pull/756
