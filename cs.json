@@ -63,8 +63,8 @@
 
         "ACTION_ACKNOWLEDGE"               : "@:APP.ACTION_ACKNOWLEDGE",
         "ACTION_CANCEL"                    : "@:APP.ACTION_CANCEL",
-        "ACTION_CLEAR_CLIENT_MESSAGES"     : "Vyčistit",
-        "ACTION_CLEAR_COMPLETED_TRANSFERS" : "Vyčistit",
+        "ACTION_CLEAR_CLIENT_MESSAGES"     : "@:APP.ACTION_CLEAR",
+        "ACTION_CLEAR_COMPLETED_TRANSFERS" : "@:APP.ACTION_CLEAR",
         "ACTION_CONTINUE"                  : "@:APP.ACTION_CONTINUE",
         "ACTION_DISCONNECT"                : "Odpojit",
         "ACTION_FULLSCREEN"                : "Celá obrazovka",
@@ -515,8 +515,8 @@
         "FIELD_HEADER_DISABLE_COPY"    : "Zakázat kopírování ze vzdáleného terminálu:",
         "FIELD_HEADER_DISABLE_PASTE"   : "Zakázat vkládání z klienta:",
         "FIELD_HEADER_EXEC_COMMAND"    : "Příkaz (exec):",
-        "FIELD_HEADER_FONT_NAME"       : "Jméno fontu:",
-        "FIELD_HEADER_FONT_SIZE"       : "Velikost fontu:",
+        "FIELD_HEADER_FONT_NAME"       : "Název písma:",
+        "FIELD_HEADER_FONT_SIZE"       : "Velikost písma:",
         "FIELD_HEADER_FUNC_KEYS_AND_KEYPAD" : "Chování funkčních kláves a numerické klávesnice:",
         "FIELD_HEADER_HOSTNAME"        : "Jméno hostitele:",
         "FIELD_HEADER_IGNORE_CERT"     : "Ignorovat serverový certifikát:",
@@ -541,11 +541,6 @@
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
         "FIELD_OPTION_COLOR_SCHEME_GRAY_BLACK"  : "Šedá na černé",
@@ -567,7 +562,7 @@
         "FIELD_OPTION_FONT_SIZE_72"    : "72",
         "FIELD_OPTION_FONT_SIZE_96"    : "96",
         "FIELD_OPTION_FONT_SIZE_EMPTY" : "",
-        
+
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
@@ -677,12 +672,6 @@
         "FIELD_HEADER_WOL_SEND_PACKET"    : "Odeslat paket WoL:",
         "FIELD_HEADER_WOL_UDP_PORT"       : "UDP port pro paket WoL: ",
         "FIELD_HEADER_WOL_WAIT_TIME"      : "Doba čekání na spuštění hostitele:",
-        
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_52428800" : "50MB",
 
         "FIELD_OPTION_NORMALIZE_CLIPBOARD_EMPTY"    : "",
         "FIELD_OPTION_NORMALIZE_CLIPBOARD_PRESERVE" : "Zachovat tak, jak je",
@@ -760,7 +749,7 @@
         "FIELD_HEADER_CREATE_TYPESCRIPT_PATH" : "Automaticky vytvořit cestu ke strojopisu:",
         "FIELD_HEADER_DISABLE_COPY"  : "Zakázat kopírování ze vzdáleného terminálu:",
         "FIELD_HEADER_DISABLE_PASTE" : "Zakázat vkládání z klienta:",
-        "FIELD_HEADER_FONT_NAME"     : "Typ fontu:",
+        "FIELD_HEADER_FONT_NAME"     : "Název písma:",
         "FIELD_HEADER_FONT_SIZE"     : "Velikost písma:",
         "FIELD_HEADER_FUNC_KEYS_AND_KEYPAD" : "Chování funkčních kláves a numerické klávesnice:",
         "FIELD_HEADER_ENABLE_SFTP"   : "Povolit SFTP:",
@@ -802,11 +791,6 @@
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
         "FIELD_OPTION_COLOR_SCHEME_GRAY_BLACK"  : "Šedá na černé",
@@ -836,7 +820,7 @@
         "FIELD_OPTION_TERMINAL_TYPE_VT220"          : "vt220",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM"          : "xterm",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM_256COLOR" : "xterm-256color",
-        
+
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
@@ -865,8 +849,8 @@
         "FIELD_HEADER_CREATE_TYPESCRIPT_PATH" : "Automaticky vytvořit cestu ke strojopisu:",
         "FIELD_HEADER_DISABLE_COPY"   : "Zakázat kopírování z terminálu:",
         "FIELD_HEADER_DISABLE_PASTE"  : "Zakázat vkládání z klienta:",
-        "FIELD_HEADER_FONT_NAME"      : "Jméno fontu:",
-        "FIELD_HEADER_FONT_SIZE"      : "Velikost fontu:",
+        "FIELD_HEADER_FONT_NAME"      : "Název písma:",
+        "FIELD_HEADER_FONT_SIZE"      : "Velikost písma:",
         "FIELD_HEADER_FUNC_KEYS_AND_KEYPAD" : "Chování funkčních kláves a numerické klávesnice:",
         "FIELD_HEADER_HOSTNAME"       : "Jméno hostitele:",
         "FIELD_HEADER_LOGIN_FAILURE_REGEX" : "Přihlášení se nezdařilo regulární výraz:",
@@ -900,11 +884,6 @@
         "FIELD_OPTION_BACKSPACE_8"     : "Zpět (Ctrl-H)",
         "FIELD_OPTION_BACKSPACE_127"   : "Smazat (Ctrl-?)",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-
         "FIELD_OPTION_COLOR_SCHEME_BLACK_WHITE" : "Černá na bílé",
         "FIELD_OPTION_COLOR_SCHEME_EMPTY"       : "",
         "FIELD_OPTION_COLOR_SCHEME_GRAY_BLACK"  : "Šedá na černé",
@@ -934,7 +913,7 @@
         "FIELD_OPTION_TERMINAL_TYPE_VT220"          : "vt220",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM"          : "xterm",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM_256COLOR" : "xterm-256color",
-        
+
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
         "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
@@ -1005,11 +984,6 @@
         "FIELD_HEADER_WOL_UDP_PORT"       : "UDP port pro paket WoL:",
         "FIELD_HEADER_WOL_WAIT_TIME"      : "Doba čekání na spuštění hostitele:",
 
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_EMPTY"    : "",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_262144"   : "256KB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_1048576"  : "1MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_10485760" : "10MB",
-        "FIELD_OPTION_CLIPBOARD_BUFFER_SIZE_52428800" : "50MB",
 
         "FIELD_OPTION_COLOR_DEPTH_8"     : "256 barev",
         "FIELD_OPTION_COLOR_DEPTH_16"    : "Nízké barvy (16-bitů)",
@@ -1142,7 +1116,7 @@
         "FIELD_HEADER_TIMEZONE"                  : "Časové pásmo:",
         "FIELD_HEADER_USERNAME"                  : "Uživatelské jméno:",
         
-        "HELP_APPEARANCE"           : "Here you can enable or disable whether the \"Recent Connections\" section is shown on the home screen, and adjust the number of recent connections included.",
+        "HELP_APPEARANCE"           : "Zde můžete povolit nebo zakázat zobrazení sekce \"Poslední připojení\" na domovské obrazovce a upravit počet zobrazených posledních připojení.",
         "HELP_DEFAULT_INPUT_METHOD" : "Výchozí metoda vstupu určuje, jak Guacamole přijímá události klávesnice. Změna tohoto nastavení může být nezbytná při používání mobilního zařízení nebo při psaní přes IME. Toto nastavení může být přepsáno na základě připojení v rámci nabídky Guacamole.",
         "HELP_DEFAULT_MOUSE_MODE"   : "Výchozí režim emulace myši určuje, jak se bude vzdálená myš chovat v nových spojeních s ohledem na dotyky. Toto nastavení může být přepsáno na základě připojení v rámci nabídky Guacamole.",
         "HELP_INPUT_METHOD_NONE"    : "@:CLIENT.HELP_INPUT_METHOD_NONE",
