@@ -43,7 +43,7 @@
         
         "FIELD_HEADER_PASSWORD"       : "Heslo:",
         "FIELD_HEADER_PASSWORD_AGAIN" : "Heslo znovu:",
-        "FIELD_HEADER_RECORDING_WRITE_EXISTING" : "Povolit zápis do existujícího záznamového souboru:",
+        "FIELD_HEADER_RECORDING_WRITE_EXISTING"  : "Povolit zápis do existujícího záznamového souboru:",
         "FIELD_HEADER_TYPESCRIPT_WRITE_EXISTING" : "Povolit zápis do existujícího souboru s textem:",
 
         "FIELD_PLACEHOLDER_FILTER" : "Filtr",
@@ -154,7 +154,7 @@
         "SECTION_HEADER_FILE_TRANSFERS"  : "Přenos souborů",
         "SECTION_HEADER_INPUT_METHOD"    : "Metoda vstupu",
         
-        "SECTION_HEADER_MOUSE_MODE"     : "Mód emulace myši",
+        "SECTION_HEADER_MOUSE_MODE"      : "Mód emulace myši",
 
         "TEXT_ANONYMOUS_USER_JOINED"      : "K připojení se připojil anonymní uživatel.",
         "TEXT_ANONYMOUS_USER_LEFT"        : "Anonymní uživatel opustil připojení.",
@@ -365,8 +365,8 @@
         "FIELD_HEADER_NAME"     : "Jméno:",
         "FIELD_HEADER_TYPE"     : "Typ:",
 
-        "NAME_TYPE_BALANCING"       : "Vyvažování",
-        "NAME_TYPE_ORGANIZATIONAL"  : "Organizační",
+        "NAME_TYPE_BALANCING"      : "Vyvažování",
+        "NAME_TYPE_ORGANIZATIONAL" : "Organizační",
 
         "SECTION_HEADER_EDIT_CONNECTION_GROUP" : "Upravit skupinu spojení",
 
@@ -534,8 +534,8 @@
         "FIELD_HEADER_RECORDING_NAME"  : "Jméno záznamu:",
         "FIELD_HEADER_RECORDING_PATH"  : "Cesta k záznamu:",
         "FIELD_HEADER_SCROLLBACK"      : "Maximální délka historie:",
-        "FIELD_HEADER_TERMINAL_TYPE"        : "Typ terminálu (dostupný jako $TERM v příkazu):",
         "FIELD_HEADER_TERMINAL_TYPE_ATTACH" : "Typ terminálu (nastavený ručně v relaci):",
+        "FIELD_HEADER_TERMINAL_TYPE"        : "Typ terminálu (dostupný jako $TERM v příkazu):",
         "FIELD_HEADER_TYPESCRIPT_NAME" : "Jméno strojopisu:",
         "FIELD_HEADER_TYPESCRIPT_PATH" : "Cesta ke strojopisu:",
         "FIELD_HEADER_TYPESCRIPT_WRITE_EXISTING" : "@:APP.FIELD_HEADER_TYPESCRIPT_WRITE_EXISTING",
@@ -566,10 +566,6 @@
         "FIELD_OPTION_FONT_SIZE_72"    : "72",
         "FIELD_OPTION_FONT_SIZE_96"    : "96",
         "FIELD_OPTION_FONT_SIZE_EMPTY" : "",
-
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
 
         "NAME" : "Kubernetes",
 
@@ -692,11 +688,11 @@
         "FIELD_OPTION_RESIZE_METHOD_EMPTY"          : "",
         "FIELD_OPTION_RESIZE_METHOD_RECONNECT"      : "Znovu připojit",
 
-        "FIELD_OPTION_SECURITY_ANY"   : "Jakýkoliv",
-        "FIELD_OPTION_SECURITY_EMPTY" : "",
-        "FIELD_OPTION_SECURITY_NLA"   : "NLA (Ověřování na úrovni sítě)",
-        "FIELD_OPTION_SECURITY_RDP"   : "Šifrování RDP",
-        "FIELD_OPTION_SECURITY_TLS"   : "Šifrování TLS",
+        "FIELD_OPTION_SECURITY_ANY"       : "Jakýkoliv",
+        "FIELD_OPTION_SECURITY_EMPTY"     : "",
+        "FIELD_OPTION_SECURITY_NLA"       : "NLA (Ověřování na úrovni sítě)",
+        "FIELD_OPTION_SECURITY_RDP"       : "Šifrování RDP",
+        "FIELD_OPTION_SECURITY_TLS"       : "Šifrování TLS",
         "FIELD_OPTION_SECURITY_VMCONNECT" : "Hyper-V / VMConnect",
 
         "FIELD_OPTION_SERVER_LAYOUT_CS_CZ_QWERTZ" : "Čeština (Qwertz)",
@@ -825,10 +821,6 @@
         "FIELD_OPTION_TERMINAL_TYPE_XTERM"          : "xterm",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM_256COLOR" : "xterm-256color",
 
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
-
         "NAME" : "SSH",
 
         "SECTION_HEADER_AUTHENTICATION" : "Ověřování",
@@ -918,10 +910,6 @@
         "FIELD_OPTION_TERMINAL_TYPE_XTERM"          : "xterm",
         "FIELD_OPTION_TERMINAL_TYPE_XTERM_256COLOR" : "xterm-256color",
 
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_EMPTY" : "",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_ESC"   : "ESC[n~",
-        "FIELD_OPTION_FUNC_KEYS_AND_KEYPAD_VT100" : "VT100",
-
         "NAME" : "Telnet",
 
         "SECTION_HEADER_AUTHENTICATION" : "Ověřování",
@@ -995,17 +983,6 @@
         "FIELD_OPTION_COLOR_DEPTH_32"    : "Opravdové barvy (32-bitů)",
         "FIELD_OPTION_COLOR_DEPTH_EMPTY" : "",
 
-        "FIELD_OPTION_COMPRESS_LEVEL_0"     : "0",
-        "FIELD_OPTION_COMPRESS_LEVEL_1"     : "1",
-        "FIELD_OPTION_COMPRESS_LEVEL_2"     : "2",
-        "FIELD_OPTION_COMPRESS_LEVEL_3"     : "3",
-        "FIELD_OPTION_COMPRESS_LEVEL_4"     : "4",
-        "FIELD_OPTION_COMPRESS_LEVEL_5"     : "5",
-        "FIELD_OPTION_COMPRESS_LEVEL_6"     : "6",
-        "FIELD_OPTION_COMPRESS_LEVEL_7"     : "7",
-        "FIELD_OPTION_COMPRESS_LEVEL_8"     : "8",
-        "FIELD_OPTION_COMPRESS_LEVEL_9"     : "9",
-        "FIELD_OPTION_COMPRESS_LEVEL_EMPTY" : "",
 
         "FIELD_OPTION_CURSOR_EMPTY"  : "",
         "FIELD_OPTION_CURSOR_LOCAL"  : "Místní",
@@ -1017,18 +994,6 @@
         "FIELD_OPTION_CLIPBOARD_ENCODING_MACROMAN"  : "Mac OS Roman",
         "FIELD_OPTION_CLIPBOARD_ENCODING_UTF_8"     : "UTF-8",
         "FIELD_OPTION_CLIPBOARD_ENCODING_UTF_16"    : "UTF-16",
-
-        "FIELD_OPTION_QUALITY_LEVEL_0"     : "0",
-        "FIELD_OPTION_QUALITY_LEVEL_1"     : "1",
-        "FIELD_OPTION_QUALITY_LEVEL_2"     : "2",
-        "FIELD_OPTION_QUALITY_LEVEL_3"     : "3",
-        "FIELD_OPTION_QUALITY_LEVEL_4"     : "4",
-        "FIELD_OPTION_QUALITY_LEVEL_5"     : "5",
-        "FIELD_OPTION_QUALITY_LEVEL_6"     : "6",
-        "FIELD_OPTION_QUALITY_LEVEL_7"     : "7",
-        "FIELD_OPTION_QUALITY_LEVEL_8"     : "8",
-        "FIELD_OPTION_QUALITY_LEVEL_9"     : "9",
-        "FIELD_OPTION_QUALITY_LEVEL_EMPTY" : "",
 
         "NAME" : "VNC",
 
@@ -1052,8 +1017,8 @@
 
     "SETTINGS_CONNECTION_HISTORY" : {
 
-        "ACTION_DOWNLOAD"       : "@:APP.ACTION_DOWNLOAD",
-        "ACTION_SEARCH"         : "@:APP.ACTION_SEARCH",
+        "ACTION_DOWNLOAD" : "@:APP.ACTION_DOWNLOAD",
+        "ACTION_SEARCH"   : "@:APP.ACTION_SEARCH",
         "ACTION_VIEW_RECORDING" : "@:APP.ACTION_VIEW_RECORDING",
 
         "FIELD_PLACEHOLDER_FILTER" : "@:APP.FIELD_PLACEHOLDER_FILTER",
@@ -1090,11 +1055,11 @@
 
         "FIELD_PLACEHOLDER_FILTER" : "@:APP.FIELD_PLACEHOLDER_FILTER",
 
-        "HELP_CONNECTIONS"   : "Toto připojení můžete spravovat klepnutím nebo klepnutím na níže uvedené připojení. V závislosti na vaší úrovni přístupu lze přidávat a mazat připojení a měnit jejich vlastnosti (protokol, název hostitele, port atd.).",
+        "HELP_CONNECTIONS" : "Toto připojení můžete spravovat klepnutím nebo klepnutím na níže uvedené připojení. V závislosti na vaší úrovni přístupu lze přidávat a mazat připojení a měnit jejich vlastnosti (protokol, název hostitele, port atd.).",
         
         "INFO_ACTIVE_USER_COUNT" : "@:APP.INFO_ACTIVE_USER_COUNT",
 
-        "SECTION_HEADER_CONNECTIONS"     : "Připojení"
+        "SECTION_HEADER_CONNECTIONS" : "Připojení"
 
     },
 
@@ -1158,7 +1123,7 @@
 
         "HELP_USERS" : "Chcete-li spravovat daného uživatele, klepněte na něj nebo klepněte na něj. V závislosti na úrovni přístupu mohou být uživatelé přidáváni a mazáni a jejich hesla mohou být změněna.",
 
-        "SECTION_HEADER_USERS"       : "Uživatel",
+        "SECTION_HEADER_USERS" : "Uživatel",
 
         "TABLE_HEADER_FULL_NAME"   : "Celé jméno",
         "TABLE_HEADER_LAST_ACTIVE" : "Naposledy aktivní",
