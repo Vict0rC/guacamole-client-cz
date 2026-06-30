@@ -5,7 +5,7 @@
 
 **Source file / Zdrojový soubor**
 
-* https://github.com/apache/guacamole-client/blob/master/guacamole/src/main/webapp/translations/en.json
+* https://raw.githubusercontent.com/apache/guacamole-client/refs/heads/main/guacamole/src/main/frontend/src/translations/en.json
 
 **GUACAMOLE-781**
 

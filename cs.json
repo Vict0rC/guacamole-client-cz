@@ -43,7 +43,7 @@
         
         "FIELD_HEADER_PASSWORD"       : "Heslo:",
         "FIELD_HEADER_PASSWORD_AGAIN" : "Heslo znovu:",
-        "FIELD_HEADER_RECORDING_WRITE_EXISTING" : "Povolit zápis do existujícího záznamového souboru:",
+        "FIELD_HEADER_RECORDING_WRITE_EXISTING"  : "Povolit zápis do existujícího záznamového souboru:",
         "FIELD_HEADER_TYPESCRIPT_WRITE_EXISTING" : "Povolit zápis do existujícího souboru s textem:",
 
         "FIELD_PLACEHOLDER_FILTER" : "Filtr",
@@ -154,7 +154,7 @@
         "SECTION_HEADER_FILE_TRANSFERS"  : "Přenos souborů",
         "SECTION_HEADER_INPUT_METHOD"    : "Metoda vstupu",
         
-        "SECTION_HEADER_MOUSE_MODE"     : "Mód emulace myši",
+        "SECTION_HEADER_MOUSE_MODE"      : "Mód emulace myši",
 
         "TEXT_ANONYMOUS_USER_JOINED"      : "K připojení se připojil anonymní uživatel.",
         "TEXT_ANONYMOUS_USER_LEFT"        : "Anonymní uživatel opustil připojení.",
