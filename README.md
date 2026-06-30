@@ -14,10 +14,6 @@
 * https://github.com/apache/guacamole-client/pull/484
 * https://github.com/apache/guacamole-client/pull/610
 
-**Source file / Zdrojový soubor**
-
-* https://github.com/apache/guacamole-client/blob/main/guacamole/src/main/frontend/src/translations/en.json
-
 **GUACAMOLE-1664**
 
 * https://issues.apache.org/jira/browse/GUACAMOLE-1664
